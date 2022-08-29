@@ -1,1 +1,1 @@
-uname prints LINUX
+# linux

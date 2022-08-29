@@ -1,1 +1,1 @@
-linux
+uname prints LINUX
